@@ -1,4 +1,4 @@
-<p align="center"> <strong style="font-size: 24px;">Java-Estudos</strong> <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"> </a> </p>
+<p align="center"> <strong style="font-size: 30px;">Java-Estudos</strong> <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"> </a> </p>
 
 ## Objetivos  
 - **Assistir às aulas do curso de Java com Nélio Alves na Udemy**  
