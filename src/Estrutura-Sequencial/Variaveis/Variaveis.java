@@ -1,4 +1,4 @@
-package Variaveis;
+// package Variaveis;
 
 import java.util.Locale;
 
@@ -17,6 +17,16 @@ public class Variaveis{
         
         Locale.setDefault(Locale.US);
         System.out.printf("%.4f%n", x);
+        
+        System.out.println("Resultado "+ x + " metros");
+
+        System.out.printf("Resultado = %.2f metros%n", x);
+
+        String nome = "Mary";
+        int idade = 48;
+        double renda = 3000.0;
+        
+        System.out.printf("%s tem %d anos e ganha %.2f reais", nome, idade, renda);
     }
 
 }
