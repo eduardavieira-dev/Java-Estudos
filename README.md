@@ -21,8 +21,8 @@
 | 🧱2     | Conceitos de Programação                                            | ✅ Concluído | 06/01/2025        |  
 | 🧱3     | Introdução à Linguagem Java                                         | ✅ Concluído | 07/01/2025              |  
 | 🧱4     | Estrutura Sequencial                                                | ✅ Concluído   | 08/01/2025                |  
-| 🧱5     | Estrutura Condicional                                               | 🔄 Em Progresso   | 10/01/2025                |  
-| 🧱6     | Estruturas Repetitivas                                              | ⏳ Próximo   | -                |  
+| 🧱5     | Estrutura Condicional                                               |  ✅ Concluído  | 10/01/2025                |  
+| 🧱6     | Estruturas Repetitivas                                              | 🔄 Em Progresso   | 11/01/2025               |  
 | 💾7     | Outros Tópicos Básicos sobre Java                                   | ⏳ Próximo   | -                |  
 | 💾8     | Introdução à Programação Orientada a Objetos                        | ⏳ Próximo   | -                |  
 | 💾9     | Construtores, Sobrecarga, Encapsulamento                            | ⏳ Próximo   | -                |  
