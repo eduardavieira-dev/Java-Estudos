@@ -23,8 +23,8 @@
 | 🧱4     | Estrutura Sequencial                                                | ✅ Concluído   | 08/01/2025                |  
 | 🧱5     | Estrutura Condicional                                               |  ✅ Concluído  | 10/01/2025                |  
 | 🧱6     | Estruturas Repetitivas                                              | ✅ Concluído   | 11/01/2025               |  
-| 💾7     | Outros Tópicos Básicos sobre Java                                   | 🔄 Em Progresso   | 14/01/2025                |  
-| 💾8     | Introdução à Programação Orientada a Objetos                        | ⏳ Próximo   | -                |  
+| 💾7     | Outros Tópicos Básicos sobre Java                                   | ✅ Concluído  | 14/01/2025                |  
+| 💾8     | Introdução à Programação Orientada a Objetos                        | 🔄 Em Progresso   | 31/01/2025               |  
 | 💾9     | Construtores, Sobrecarga, Encapsulamento                            | ⏳ Próximo   | -                |  
 | 💾10    | Comportamento de Memória, Arrays, Listas                            | ⏳ Próximo   | -                |  
 | 💾11    | Tópicos Especiais em Java: Date e Time                              | ⏳ Próximo   | -                |  
